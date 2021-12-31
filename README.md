@@ -1,1 +1,2 @@
-# react-use-reducer-playground
+<h2>Motivation</h2>
+Experiment with useReducer
